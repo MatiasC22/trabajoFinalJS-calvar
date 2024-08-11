@@ -85,7 +85,7 @@
         "plataformas": ["PC", "PlayStation 4", "Xbox One"],
         "tipos": ["Acción", "Aventura"],
         "precio": 69,
-        "imagen": "https://uvejuegos.com/img/caratulas/63266/Red-Dead-Redemption-2-Xbox-One-EU.jpg"
+        "imagen": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
     },
     {
         "codigo": "0012",
@@ -93,7 +93,7 @@
         "plataformas": ["Nintendo Switch", "Wii U"],
         "tipos": ["Aventura", "Acción"],
         "precio": 59,
-        "imagen": "https://i.3djuegos.com/juegos/9291/the_legend_of_zelda_breath_of_the_wild/fotos/ficha/the_legend_of_zelda_breath_of_the_wild-4074329.jpg"
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
     },
     {
         "codigo": "0013",
@@ -101,7 +101,7 @@
         "plataformas": ["Nintendo Switch"],
         "tipos": ["Plataformas", "Aventura"],
         "precio": 49,
-        "imagen": "https://uvejuegos.com/img/caratulas/63456/Super-Mario-Odyssey-Switch-EU.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpjNp6K314Ph37gzbj2M0hoPR666QR8kixw&s"
     },
     {
         "codigo": "0014",
@@ -109,7 +109,7 @@
         "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
         "tipos": ["RPG", "Acción"],
         "precio": 39,
-        "imagen": "https://i.3djuegos.com/juegos/14421/cyberpunk_2077/fotos/ficha/cyberpunk_2077-4756635.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-dZ8u_dXZ4-AhDROEpQNiXqh9VNbGH1B9g&s"
     },
     {
         "codigo": "0015",
@@ -117,7 +117,7 @@
         "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
         "tipos": ["Shooter", "Multijugador"],
         "precio": 0,
-        "imagen": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/5NZfrp4QzVt1afifSUT5D9ZD.png"
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNzU2YTY2OTgtZGZjZi00MTAyLThlYjUtMWM5ZmYzOGEyOWJhXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "codigo": "0016",
@@ -125,7 +125,7 @@
         "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "iOS", "Android"],
         "tipos": ["Sandbox", "Aventura"],
         "precio": 26,
-        "imagen": "https://i.3djuegos.com/juegos/4784/minecraft/fotos/ficha/minecraft-3152147.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbWOL6AqgFI9M4eblTENTH_X5OYkzBMpvZA&s"
     },
     {
         "codigo": "0017",
@@ -133,7 +133,7 @@
         "plataformas": ["PC", "Nintendo Switch", "iOS", "Android"],
         "tipos": ["Multijugador", "Estrategia"],
         "precio": 5,
-        "imagen": "https://cdn1.epicgames.com/offer/8dc232445b494b499b2f142ff993125c/EGS_InnerslothLLC_AmongUs_S1_2560x1440-2560x1440-240bfeada77e7b8c17c65d685aefbcd4"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4pC911RR8_8f9fN7T2AYbgBWfH-lv8DX7w&s"
     },
     {
         "codigo": "0018",
@@ -141,7 +141,7 @@
         "plataformas": ["PlayStation 4"],
         "tipos": ["Acción", "Aventura"],
         "precio": 49,
-        "imagen": "https://uvejuegos.com/img/caratulas/67500/The-Last-of-Us-Part-II-PS4-EU.jpg"
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/TLOU_P2_Box_Art_2.png/220px-TLOU_P2_Box_Art_2.png"
     },
     {
         "codigo": "0019",
@@ -149,7 +149,7 @@
         "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
         "tipos": ["Acción", "Aventura"],
         "precio": 29,
-        "imagen": "https://uvejuegos.com/img/caratulas/64132/Grand-Theft-Auto-V-Xbox-One-EU.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcd3Ot3tKbA9lam9mPsdvoR013b9zomGexg&s"
     },
     {
         "codigo": "0020",
@@ -157,6 +157,6 @@
         "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
         "tipos": ["Shooter", "Acción"],
         "precio": 39,
-        "imagen": "https://uvejuegos.com/img/caratulas/67809/DOOM-Eternal-PS4-EU.jpg"
+        "imagen": "https://juegos-digitales.com.ar/wp-content/uploads/1633481084-doom-eternal-standard-edition-ps5.jpg"
     }
 ]
