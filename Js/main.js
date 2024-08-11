@@ -1,24 +1,11 @@
 let carrito = JSON.parse(localStorage.getItem('carrito')) || [];
-let juegos = [];
+let juegos = []; 
 
-// fetch('juegos.json')
-//   .then(response => response.json())
-//   .then(data => {
-//     const juegos = data;
-//     // Ahora puedes utilizar el array juegos
-//     console.log(juegos);
-//     mostrarJuegos(juegos);
-//   })
-//   .catch(error => console.error('Error al leer el archivo JSON:', error));
-
-
-
-function mostrarJuegos() {
+function mostrarJuegos(data) {
     const container = document.getElementById('juegos-container');
-    juegos.forEach(juego => {
+    data.forEach(juego => {
         const juegoDiv = document.createElement('div');
         juegoDiv.classList.add('juego');
-        
 
         juegoDiv.innerHTML = `
             <img src="${juego.imagen}" alt="${juego.nombre}">
@@ -110,6 +97,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     getProducts();
-    mostrarJuegos();
     actualizarCarrito(); 
 });
