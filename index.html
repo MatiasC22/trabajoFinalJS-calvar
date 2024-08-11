@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    
+    <nav class="navegacion">
+        
+        <ul class="nav-ul">
+            
+            <li><a href="./index.html">Inicio</a>>></li>
+            <li><a href="./pages/nosotros.html">Nosotros</a></li>
+            <li><a href="./pages/galeria.html">Galeria</a></li>
+            <li><a href="./pages/preguntas-frecuentes.html">Preguntas Frecuentes</a></li>
+            <li><a href="./pages/contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+    <h1>Los Mejores Juegos</h1>
+    <button id="ver-carrito">Ver Carrito (<span id="carrito-cantidad">0</span>)</button>
+
+    <main class="fondo-papel" id="main-prin">
+        <div id="juegos-container"></div>
+    </main>
+    <!-- <div id="juegos-container">
+        <p>Prueba de contenido</p>
+      </div> -->
+    <div id="carrito-modal" class="modal ">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Carrito</h2>
+            <div id="carrito-container"></div>
+            <button id="cerrar-carrito">Cerrar</button>
+        </div>
+    </div>
+    <!-- <script src="./Js/juegos.js"></script> -->
+    <script src="./Js/main.js"></script>
+    <script src="./Js/getproduct.js"></script>
+</body>
+
+</html>
